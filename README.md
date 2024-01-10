@@ -153,8 +153,7 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Authors
-Amos Mwongela Gabriel - [Github](https://github.com/cm-amos)/[Twitter](https://ttitter.com/) <br>
+<br>
 
 Second part of Airbnb: Joann Vuong
 ## License
